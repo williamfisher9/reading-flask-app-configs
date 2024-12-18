@@ -1,0 +1,5 @@
+{
+  "SQLALCHEMY_DATABASE_URI": "sqlite:///database.db",
+  "SECRET_KEY": "development key",
+  "JWT_SECRET_KEY": "jwt development key"
+}
