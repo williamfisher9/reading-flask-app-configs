@@ -1,5 +1,5 @@
 from flask import Flask
-from jproperties import Properties
+from jproperties import Properties  # pip install jproperties
 
 configs = Properties()  # Create a new property file parser.
 
